@@ -36,6 +36,10 @@ public class WebCalci {
 	void subtraction(){
 		
 	}
+
+	void Addition(){
+		
+	}
 	
 	
 	
